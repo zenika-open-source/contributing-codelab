@@ -58,20 +58,20 @@ Avant de commencer, assurez-vous d'avoir :
 
 ---
 
-## Étape 2 : Choisir un projet pour contribuer (10 min)
+## Étape 2 : Choisir un projet pour contribuer
 
 Pour ce codelab, nous vous proposons plusieurs projets selon votre niveau :
 
-### 🌱 Niveau Débutant (Documentation/Typos)
-- **Projet** : `codelab-org/beginners-docs`
+### 🌱 Niveau Java
+- **Projet** : (Codelab Java)[https://github.com/zenika-open-source/how-to-contribute-opensource-java]
 - **Types de contributions** : Corriger des fautes, améliorer la documentation
 
-### 🌿 Niveau Intermédiaire (Code simple)  
-- **Projet** : `codelab-org/simple-calculator`
+### 🌿 Niveau Pyhton
+- **Projet** : (Codelab Python)[https://github.com/zenika-open-source/how-to-contribute-opensource-python]
 - **Types de contributions** : Ajouter des fonctions simples, corriger des bugs
 
-### 🌳 Niveau Avancé (Fonctionnalités)
-- **Projet** : `codelab-org/todo-app`  
+### 🌳 Niveau Reactjs
+- **Projet** : (Codelab ReactJs)[https://github.com/zenika-open-source/how-to-contribute-opensource-reactjs]  
 - **Types de contributions** : Nouvelles fonctionnalités, refactoring
 
 ### 🏷️ Comment choisir une issue ?
@@ -86,7 +86,7 @@ Pour ce codelab, nous vous proposons plusieurs projets selon votre niveau :
 
 ---
 
-## Étape 3 : Explorer le projet (5 min)
+## Étape 3 : Explorer le projet
 
 ### 3.1 Lecture du projet
 
@@ -115,7 +115,7 @@ j'aimerais travailler sur cette issue. Puis-je m'en charger ? Merci !
 
 ---
 
-## Étape 4 : Configurer Git localement (5 min)
+## Étape 4 : Configurer Git localement
 
 Ouvrez votre terminal et configurez Git avec vos informations :
 
@@ -134,7 +134,7 @@ git config --list
 
 ---
 
-## Étape 5 : Fork du projet (3 min)
+## Étape 5 : Fork du projet
 
 ### 5.1 Créer le fork
 
@@ -154,7 +154,7 @@ Projet Original    →    Votre Fork
 
 ---
 
-## Étape 6 : Cloner votre fork localement (5 min)
+## Étape 6 : Cloner votre fork localement
 
 ### 6.1 Obtenir l'URL de clone
 
@@ -183,7 +183,7 @@ ls -la
 
 ---
 
-## Étape 7 : Créer une branche pour votre contribution (3 min)
+## Étape 7 : Créer une branche pour votre contribution
 
 ### 📏 Règle d'or 
 > **Ne jamais travailler directement sur la branche `main` !**
@@ -213,7 +213,7 @@ git branch
 
 ---
 
-## Étape 8 : Faire vos modifications (15 min)
+## Étape 8 : Faire vos modifications
 
 ### 8.1 Ouvrir le projet dans votre éditeur
 
@@ -242,6 +242,7 @@ Selon l'issue choisie, vous pourriez :
 
 ### 8.3 Tester vos changements
 
+
 ```bash
 # Si le projet a des tests, lancez-les
 npm test
@@ -252,11 +253,13 @@ python -m pytest
 # Testez manuellement votre code si nécessaire
 ```
 
+Le guide de contribution du projet contient les informations nécéssaires pour lancer les tests du projet.
+
 > ⚠️ **Important** : Assurez-vous que vos changements ne cassent pas le projet existant !
 
 ---
 
-## Étape 9 : Commiter vos changements (5 min)
+## Étape 9 : Commiter vos changements
 
 ### 9.1 Vérifier les fichiers modifiés
 
@@ -305,7 +308,7 @@ git commit -m "Fix typo in installation instructions"
 
 ---
 
-## Étape 10 : Pousser vos changements (3 min)
+## Étape 10 : Pousser vos changement 
 
 ```bash
 # Pousser votre branche vers votre fork
@@ -319,7 +322,7 @@ git push origin fix-typo-in-readme
 
 ---
 
-## Étape 11 : Créer une Pull Request (10 min)
+## Étape 11 : Créer une Pull Request
 
 ### 11.1 Accéder à l'interface de PR
 
@@ -375,7 +378,7 @@ Cliquez sur **"Create pull request"**
 
 ---
 
-## Étape 12 : Après la Pull Request (5 min)
+## Étape 12 : Après la Pull Request
 
 ### 🔄 Ce qui va se passer
 
@@ -521,12 +524,6 @@ Cochez au fur et à mesure de votre progression :
 
 ---
 
-## 📜 Licence
-
-Ce codelab est sous licence [MIT](LICENSE). Vous pouvez le réutiliser, le modifier et le distribuer librement.
-
----
-
 **🎉 Félicitations et bienvenue dans le monde de l'Open Source !**
 
 > *"The best way to get started is to quit talking and begin doing."* - Walt Disney
@@ -535,11 +532,6 @@ Ce codelab est sous licence [MIT](LICENSE). Vous pouvez le réutiliser, le modif
 
 ---
 
-### 📞 Support
-
-- 🐛 **Issues** : [Créer une issue](../../issues)
-- 💬 **Discussions** : [Rejoindre les discussions](../../discussions)  
-- 📧 **Contact** : [codelab@example.com](mailto:codelab@example.com)
 
 ---
 
