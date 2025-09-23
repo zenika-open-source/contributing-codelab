@@ -63,15 +63,15 @@ Avant de commencer, assurez-vous d'avoir :
 Pour ce codelab, nous vous proposons plusieurs projets selon votre niveau :
 
 ### 🌱 Niveau Java
-- **Projet** : (Codelab Java)[https://github.com/zenika-open-source/how-to-contribute-opensource-java]
+- **Projet** : [Codelab Java](https://github.com/zenika-open-source/how-to-contribute-opensource-java)
 - **Types de contributions** : Corriger des fautes, améliorer la documentation
 
 ### 🌿 Niveau Pyhton
-- **Projet** : (Codelab Python)[https://github.com/zenika-open-source/how-to-contribute-opensource-python]
+- **Projet** : [Codelab Python](https://github.com/zenika-open-source/how-to-contribute-opensource-python)
 - **Types de contributions** : Ajouter des fonctions simples, corriger des bugs
 
 ### 🌳 Niveau Reactjs
-- **Projet** : (Codelab ReactJs)[https://github.com/zenika-open-source/how-to-contribute-opensource-reactjs]  
+- **Projet** : [Codelab ReactJs](https://github.com/zenika-open-source/how-to-contribute-opensource-reactjs)  
 - **Types de contributions** : Nouvelles fonctionnalités, refactoring
 
 ### 🏷️ Comment choisir une issue ?
