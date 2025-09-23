@@ -71,7 +71,7 @@ Pour ce codelab, nous vous proposons plusieurs projets selon votre niveau :
 - **Types de contributions** : Ajouter des fonctions simples, corriger des bugs
 
 ### 🌳 Niveau Reactjs
-- **Projet** : [Codelab ReactJs](https://github.com/zenika-open-source/how-to-contribute-opensource-reactjs)  
+- **Projet** : [Codelab ReactJs](https://github.com/zenika-open-source/how-to-contribute-opensource-react)  
 - **Types de contributions** : Nouvelles fonctionnalités, refactoring
 
 ### 🏷️ Comment choisir une issue ?
