@@ -60,17 +60,17 @@ Avant de commencer, assurez-vous d'avoir :
 
 ## Étape 2 : Choisir un projet pour contribuer
 
-Pour ce codelab, nous vous proposons plusieurs projets selon votre niveau :
+Pour ce codelab, nous vous proposons plusieurs projets selon votre appétence :
 
-### 🌱 Niveau Java
+### 🌱 Java
 - **Projet** : [Codelab Java](https://github.com/zenika-open-source/how-to-contribute-opensource-java)
 - **Types de contributions** : Corriger des fautes, améliorer la documentation
 
-### 🌿 Niveau Pyhton
+### 🌿 Pyhton
 - **Projet** : [Codelab Python](https://github.com/zenika-open-source/how-to-contribute-opensource-python)
 - **Types de contributions** : Ajouter des fonctions simples, corriger des bugs
 
-### 🌳 Niveau Reactjs
+### 🌳 Reactjs
 - **Projet** : [Codelab ReactJs](https://github.com/zenika-open-source/how-to-contribute-opensource-react)  
 - **Types de contributions** : Nouvelles fonctionnalités, refactoring
 
@@ -106,7 +106,7 @@ Fichiers importants à consulter :
 3. Lisez plusieurs issues pour comprendre ce qui est demandé  
 4. Choisissez une issue qui vous intéresse et semble à votre portée
 
-**⚠️ Important** : Commentez sur l'issue pour indiquer votre intention :
+**⚠️ Important** : Commentez sur l'issue pour indiquer votre intention, par exemple :
 
 ```markdown
 Bonjour ! Je suis nouveau/nouvelle dans les contributions open source et 
