@@ -66,7 +66,7 @@ Pour ce codelab, nous vous proposons plusieurs projets selon votre appétence :
 - **Projet** : [Codelab Java](https://github.com/zenika-open-source/how-to-contribute-opensource-java)
 - **Types de contributions** : Corriger des fautes, améliorer la documentation
 
-### 🌿 Pyhton
+### 🌿 Python
 - **Projet** : [Codelab Python](https://github.com/zenika-open-source/how-to-contribute-opensource-python)
 - **Types de contributions** : Ajouter des fonctions simples, corriger des bugs
 
