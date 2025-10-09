@@ -74,6 +74,9 @@ Pour ce codelab, nous vous proposons plusieurs projets selon votre appétence :
 - **Projet** : [Codelab ReactJs](https://github.com/zenika-open-source/how-to-contribute-opensource-react)  
 - **Types de contributions** : Nouvelles fonctionnalités, refactoring
 
+⚠️ Les projets sont archivés volontairement lorsqu'aucun code lab n'est en cours. Si vous faîtes partis de Zenika et que vous réalisez ce code lab pour un client, merci de contacter opensource@zenika.com pour les réactiver (si vous n'avez pas les droits). 
+
+
 ### 🏷️ Comment choisir une issue ?
 
 1. Visitez le repository du projet choisi
